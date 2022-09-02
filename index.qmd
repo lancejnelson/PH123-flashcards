@@ -29,4 +29,25 @@ toc: true
 2. What determines whether an object float or sinks when placed in a fluid?
 3. Two blocks are identical in size. One is made of lead and sits on the bottom of a pond; the other is made of wood and floats on top.  Upon which block is the buoyant force greater? Explain.
 4. What is Archimedes' principle?
+5. Two objects are floating in water.  Half of object #1 is submerged in the water and 75\% of object #2 is submerged.  Which object is more dense? Can you prove it mathematically?
+6. (T/F)  The buoyant force on a submerged object depends on both its size and shape?
 
+
+
+## Section 14.5 (Fluid Dynamics) {-}
+
+1. A fluid is flowing through a pipe that has a narrow section and a wider section. Why does the speed of the fluid increase in the narrow section and decrease in the wider section of the pipe?
+2. What is the equation for volume flow rate? (related question: What are the SI units of volume flow rate?)
+3. What is the mathematical formula for Bernoulli's equation?
+4. A pipe starts at the bottom of a hill and continues until it reaches the top.  The pipe is wide at the bottom and narrow at the top.  Compare the pressure and flow speed at the top and bottom.
+5. Draw a Venturi tube and explain how it works.
+6. Use Bernoulli's principle (equation) to explain how an airplane wing (airfoil) generates lift.
+
+## Section 14.6 (Elasticity) {-}
+
+1. What is the mathematical equation and SI units for tensile stress?
+2. What is the mathematical equation and SI units for volume stress?
+3. What is the mathematical equation and SI units for linear strain?
+4. What is the mathematical equation and SI units for volume strain?
+5. What is Young's modulus and what are the SI units?
+6. What is Bulk modulus and what are the SI units?

@@ -12,6 +12,7 @@ book:
     style: floating
   chapters:
       - index.qmd
+      - ch15.qmd
 
 format:
   html:
