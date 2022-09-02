@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  freeze: auto
+book:
+  title: "Flashcards for PH123"
+  author: "Lance Nelson"
+  date: "7/16/2022"
+  sidebar:
+    style: floating
+  chapters:
+      - index.qmd
+
+format:
+  html:
+    toc: true
+    theme: 
+      light: cosmo  # simplex cosmo
+      dark: darkly
+    max-width: 1600px
+    margin: 10px 20px 30px 20px
+  pdf:
+    documentclass: scrreprt
+
+
+

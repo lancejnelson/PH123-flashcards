@@ -1,0 +1,32 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 14  {-}
+
+## Sections 14.1 - 14.3 (Fluids) {-}
+
+1. Explain how a suction cup works.
+2. Explain why gases exert pressure.
+3. Explain why liquids exert pressure.
+4. What are the SI units of density?
+5. What are the SI units of pressure?
+6. What is a barometer?  Explain how it works.
+7. What is a hydraulic lift?  Explain how it works.
+8. What is atmospheric pressure on Earth?
+9. What is Pascal's principle?
+10. What is the density of air at standard temperature and pressure (STP)?
+11. What is the density of water at standard temperature and pressure (STP)?
+12. What is the difference between gauge and absolute pressure?
+13. What is the mathematical definition of (equation for) pressure?
+14. What is the mathematical equation for the pressure at depth  $h$ in a fluid?
+
+
+## Section 14.4 (Buoyancy) {-}
+
+1. While at the beach, you push a beach ball under the surface of the water and notice that it is quite hard to keep submerged.  What is exerting an upward force on the ball. (Don't just say buoyant force!!)
+2. What determines whether an object float or sinks when placed in a fluid?
+3. Two blocks are identical in size. One is made of lead and sits on the bottom of a pond; the other is made of wood and floats on top.  Upon which block is the buoyant force greater? Explain.
+4. What is Archimedes' principle?
+
