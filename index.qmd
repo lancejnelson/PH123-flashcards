@@ -13,7 +13,7 @@ toc: true
 4. What are the SI units of density?
 5. What are the SI units of pressure?
 6. What is a barometer?  Explain how it works.
-7. What is a hydraulic lift?  Explain how it works.
+7. Some liquid is placed in a pipe that is bent into the shape of a "U".  If you draw a horizontal line that connects one side of the u-tube to the other, how does the fluid pressure on one side compare to the other side? How do you know?
 8. What is atmospheric pressure on Earth?
 9. What is Pascal's principle?
 10. What is the density of air at standard temperature and pressure (STP)?
@@ -21,6 +21,7 @@ toc: true
 12. What is the difference between gauge and absolute pressure?
 13. What is the mathematical definition of (equation for) pressure?
 14. What is the mathematical equation for the pressure at depth  $h$ in a fluid?
+15. Where can you find the Savior's sermon on the mount? (It's found in more than one place.)
 
 
 ## Section 14.4 (Buoyancy) {-}
@@ -49,5 +50,5 @@ toc: true
 2. What is the mathematical equation and SI units for volume stress?
 3. What is the mathematical equation and SI units for linear strain?
 4. What is the mathematical equation and SI units for volume strain?
-5. What is Young's modulus and what are the SI units?
-6. What is Bulk modulus and what are the SI units?
+5. What is Young's modulus and what are its SI units?
+6. What is Bulk modulus and what are its SI units?
