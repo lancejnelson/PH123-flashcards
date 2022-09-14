@@ -27,11 +27,12 @@ toc: true
 ## Section 14.4 (Buoyancy) {-}
 
 1. While at the beach, you push a beach ball under the surface of the water and notice that it is quite hard to keep submerged.  What is exerting an upward force on the ball. (Don't just say buoyant force!!)
-2. What determines whether an object float or sinks when placed in a fluid?
+2. What determines whether an object floats or sinks when placed in a fluid?
 3. Two blocks are identical in size. One is made of lead and sits on the bottom of a pond; the other is made of wood and floats on top.  Upon which block is the buoyant force greater? Explain.
 4. What is Archimedes' principle?
 5. Two objects are floating in water.  Half of object #1 is submerged in the water and 75\% of object #2 is submerged.  Which object is more dense? Can you prove it mathematically?
 6. (T/F)  The buoyant force on a submerged object depends on both its size and shape?
+7. Recite Helaman 5:12.
 
 
 
@@ -43,6 +44,7 @@ toc: true
 4. A pipe starts at the bottom of a hill and continues until it reaches the top.  The pipe is wide at the bottom and narrow at the top.  Compare the pressure and flow speed at the top and bottom.
 5. Draw a Venturi tube and explain how it works.
 6. Use Bernoulli's principle (equation) to explain how an airplane wing (airfoil) generates lift.
+7. Where is the parable
 
 ## Section 14.6 (Elasticity) {-}
 
