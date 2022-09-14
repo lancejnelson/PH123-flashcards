@@ -5,10 +5,31 @@ toc: true
 
 # Chapter 15  {-}
 
-## Sections 15.1 - 15.2 (Simple Harmonic Motion) {-}
+## Sections 15.1 - 15.3 (Simple Harmonic Motion) {-}
+1. Define "period" ($T$).  What are the units of period?  
+2. Define amplitude ($A$).  What are the units of amplitude? 
+3. Define frequency ($f$).  What are the units of frequency? 
+4. Define angular frequency ($\omega$).  What are the units of angular frequency? 
+5. What is the mathematical equation for the angular velocity($\omega$) of a mass on a spring?
+6. What is the phase constant ($\phi$)?  What are the units of the phase constant? 
+7. What is the mathematical expression for the maximum velocity of an oscillator? 
+8. What is the mathematical expression for the angular velocity of an oscillator?
+9. Where can you find the account of the woman who touched the Savior's garment as he walked by and was healed after suffering for 12 years?
+
+## Section 15.4 - 15.6 (Vertical Oscillations and Pendulums) {-}
+1. A mass is attached to a spring and allowed to oscillate horizontally. At what point in the oscillatory motion will the mass have maximum speed?
+2. A mass is attached to a spring and allowed to oscillate horizontally. At what point in the oscillatory motion will the mass have zero speed?
+3. What is the mathematical equation for the angular velocity($\omega$) of a pendulum?
+4. What is the small-angle approximation?
+5. What is a physical pendulum?
+6. What is the mathematical equation for the angular velocity($\omega$) of a **physical** pendulum?
+7. Where can you find the Savior's teaching of the two great commandments?
 
 
-
-## Section 15.3 - 15.6 (Vertical Oscillations and Pendulums) {-}
-
-
+## Section 15.7 - 15.8 (Driven and Damped Oscillations) {-}
+1. What is the mathematical equation for the angular velocity($\omega$) of a **damped** pendulum?
+2. What is a time constant($\tau$) and what is the mathematical expression for the time constant for a damped oscillator?
+3. What is the difference between driving frequency and natural frequency?
+4. What is resonance and how is it achieved?
+5. Explain how an opera singer can shatter a glass if he/she sings at just the right frequency.
+6. Where can you find Mormon's counsel on having charity?
