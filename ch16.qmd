@@ -1,0 +1,38 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 16  {-}
+
+## Sections 16.1 - 16.4 (One-dimensional waves) {-}
+1. What is the mathematical expression for the speed of waves on a rope?
+2. What is a mathematical expression for mass density? What are the units of mass density?
+3. What is a snapshot graph?
+4. What is a history graph?
+5. What is wavelength ($\lambda$) and how is it different from period ($T$)?
+6. What mathematical expression relates wave velocity ($v$) with wavelength ($\lambda$) and frequency ($f$)?
+7. What is wave number ($k$) and what is the mathematical expression to calculate it?
+8. What mathematical expression relates wave velocity ($v$) with angular frequency ($\omega$) and wave number ($k$)?
+
+
+
+## Section 16.5 - 16.7 (Sound and Light) {-}
+1. What are compressions and rarefactions?
+2. What is the speed of sound in air at $20^\circ$ C?
+3. What is the speed of light ($c$)?
+4. When a wave encounters a boundary between one material and another, which of these three quantities change and which remain unchanged: speed, frequency, wavelength?
+5. What is the meaning of index of refraction? What is the mathematical equation for calculating it?
+6. What is the mathematical equation for calculating the speed of sound?
+7. What is the mathematical equation for calculating the phase difference ($\phi$)?
+8. What are the two great commandments and where in the scriptures can you find them?
+
+
+## Section 16.8 - 16.9 (Power/Intensity/Doppler Effect) {-}
+1. What is the mathematical expression for intensity? What are the units of intensity?
+2. What is the mathematical expression for intensity level?  What are the units of sound intensity level?
+3. What sound intensity level is the threshold of pain?
+4. If a sound source is moving towards you, will you observe a higher or lower frequency compared to a stationary sound source?
+5. If an observer is moving away from a sound source, will she observe a higher or lower frequency compared to a stationary observer?
+6. The light from a receding source will have a wavelength that is: i) red shifted or ii) blue shifted?
+7. What is the message of the parable of the ten virgins? Where can this parable be found?

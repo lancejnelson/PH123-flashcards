@@ -13,6 +13,7 @@ book:
   chapters:
       - index.qmd
       - ch15.qmd
+      - ch16.qmd
 
 format:
   html:
