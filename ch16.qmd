@@ -7,7 +7,7 @@ toc: true
 
 ## Sections 16.1 - 16.4 (One-dimensional waves) {-}
 1. What is the mathematical expression for the speed of waves on a rope?
-2. What is a mathematical expression for mass density? What are the units of mass density?
+2. What is a mathematical expression for linear mass density ($\mu$)? What are the units of mass density?
 3. What is a snapshot graph?
 4. What is a history graph?
 5. What is wavelength ($\lambda$) and how is it different from period ($T$)?
