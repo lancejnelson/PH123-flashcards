@@ -39,7 +39,7 @@
     "href": "ch16.html#section-16.5---16.7-sound-and-light",
     "title": "Chapter 16",
     "section": "Section 16.5 - 16.7 (Sound and Light)",
-    "text": "Section 16.5 - 16.7 (Sound and Light)\n\nWhat are compressions and rarefactions?\nWhat is the speed of sound in air at \\(20^\\circ\\) C?\nWhat is the speed of light (\\(c\\))?\nWhen a wave encounters a boundary between one material and another, which of these three quantities change and which remain unchanged: speed, frequency, wavelength?\nWhat is the meaning of index of refraction? What is the mathematical equation for calculating it?\nWhat is the mathematical equation for calculating the speed of sound?\nWhat is the mathematical equation for calculating the phase difference (\\(\\phi\\))?\nWhat are the two great commandments and where in the scriptures can you find them?"
+    "text": "Section 16.5 - 16.7 (Sound and Light)\n\nWhat are compressions and rarefactions?\nWhat is the speed of sound in air at \\(20^\\circ\\) C?\nWhat is the speed of light (\\(c\\))?\nWhat frequency range can human ears detect?\nWhen a wave encounters a boundary between one material and another, which of these three quantities change and which remain unchanged: speed, frequency, wavelength?\nWhat is the meaning of index of refraction? What is the mathematical equation for calculating it?\nWhat is the mathematical equation for calculating the speed of sound?\nWhat is the mathematical equation for calculating the phase difference (\\(\\phi\\))?\nWhat are the two great commandments and where in the scriptures can you find them?"
   },
   {
     "objectID": "ch16.html#section-16.8---16.9-powerintensitydoppler-effect",
@@ -47,5 +47,19 @@
     "title": "Chapter 16",
     "section": "Section 16.8 - 16.9 (Power/Intensity/Doppler Effect)",
     "text": "Section 16.8 - 16.9 (Power/Intensity/Doppler Effect)\n\nWhat is the mathematical expression for intensity? What are the units of intensity?\nWhat is the mathematical expression for intensity level? What are the units of sound intensity level?\nWhat sound intensity level is the threshold of pain?\nIf a sound source is moving towards you, will you observe a higher or lower frequency compared to a stationary sound source?\nIf an observer is moving away from a sound source, will she observe a higher or lower frequency compared to a stationary observer?\nThe light from a receding source will have a wavelength that is: i) red shifted or ii) blue shifted?\nWhat is the message of the parable of the ten virgins? Where can this parable be found?"
+  },
+  {
+    "objectID": "ch17.html",
+    "href": "ch17.html",
+    "title": "Chapter 17",
+    "section": "",
+    "text": "What is the principle of superposition?\nWhat is a standing wave?\nWhat is the mathematical expression for the allowed wave frequencies for waves on a string?\nWhat is a node?\nWhat is an antinode?\nWhat is a harmonic?\nWhat is the fundamental frequency?\nWhat is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is closed at both ends?\nWhat is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is open at one end and closed at the other?\nWhat is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is open at both ends?\nRecite Isaiah 55:8-9"
+  },
+  {
+    "objectID": "ch17.html#section-17.5---17.8-wave-interference",
+    "href": "ch17.html#section-17.5---17.8-wave-interference",
+    "title": "Chapter 17",
+    "section": "Section 17.5 - 17.8 (Wave Interference)",
+    "text": "Section 17.5 - 17.8 (Wave Interference)\n\nWhat is meant by “path length difference”?\nWhat is the mathematical condition for two waves to combine with maximum constructive interference?\nWhat is the mathematical condition for two waves to combine with maximum destructive interference?\nExplain how thin film coatings can reduce glare on your eye glasses.\nWhat are beats?\nWhat is the expression for beat frequency?\nRecite John 16:33"
   }
 ]

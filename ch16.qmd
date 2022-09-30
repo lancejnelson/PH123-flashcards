@@ -21,11 +21,12 @@ toc: true
 1. What are compressions and rarefactions?
 2. What is the speed of sound in air at $20^\circ$ C?
 3. What is the speed of light ($c$)?
-4. When a wave encounters a boundary between one material and another, which of these three quantities change and which remain unchanged: speed, frequency, wavelength?
-5. What is the meaning of index of refraction? What is the mathematical equation for calculating it?
-6. What is the mathematical equation for calculating the speed of sound?
-7. What is the mathematical equation for calculating the phase difference ($\phi$)?
-8. What are the two great commandments and where in the scriptures can you find them?
+4. What frequency range can human ears detect?
+5. When a wave encounters a boundary between one material and another, which of these three quantities change and which remain unchanged: speed, frequency, wavelength?
+6. What is the meaning of index of refraction? What is the mathematical equation for calculating it?
+7. What is the mathematical equation for calculating the speed of sound?
+8. What is the mathematical equation for calculating the phase difference ($\phi$)?
+9. What are the two great commandments and where in the scriptures can you find them?
 
 
 ## Section 16.8 - 16.9 (Power/Intensity/Doppler Effect) {-}

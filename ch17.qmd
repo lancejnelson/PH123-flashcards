@@ -1,0 +1,28 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 17  {-}
+
+## Sections 17.1 - 17.4 (Standing Waves) {-}
+1. What is the principle of superposition?
+2. What is a standing wave?
+3. What is the mathematical expression for the allowed wave frequencies for waves on a string?
+4. What is a node?
+5. What is an antinode?
+6. What is a harmonic?
+7. What is the fundamental frequency?
+8. What is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is closed at both ends?
+9. What is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is open at one end and closed at the other?
+10. What is the mathematical expression for the allowed wave frequencies for sound waves in a pipe that is open at both ends?
+11. Recite Isaiah 55:8-9
+
+## Section 17.5 - 17.8 (Wave Interference) {-}
+1. What is meant by "path length difference"?
+2. What is the mathematical condition for two waves to combine with maximum constructive interference?
+3. What is the mathematical condition for two waves to combine with maximum destructive interference?
+4. Explain how thin film coatings can reduce glare on your eye glasses.
+5. What are beats?
+6. What is the expression for beat frequency?
+7. Recite John 16:33
