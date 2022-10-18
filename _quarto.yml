@@ -15,6 +15,7 @@ book:
       - ch15.qmd
       - ch16.qmd
       - ch17.qmd
+      - ch18.qmd
 
 format:
   html:
