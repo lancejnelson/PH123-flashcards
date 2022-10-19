@@ -1,0 +1,40 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 19  {-}
+
+## Sections 19.1 - 19.4 (Work, Heat, and the First Law) {-}
+1. What is the mathematical equation for calculating the work done **on an ideal gas**?
+2. How do you calculate the work done for an isochoric process?
+3. How do you calculate the work done for an isobaric process?
+4. How do you calculate the work done for an isothermal process?
+5. What is heat?
+6. What is the first law of thermodynamics?
+7. What is an adiabatic process?
+8. (T/F) In an adiabatic process, the temperature stays constant?
+9. Where is the account of Jesus feeding the 5000?
+
+## Section 19.5 - 19.6 (Calorimetry) {-}
+1. What is the meaning of specific heat?
+2. What is the difference between specific heat and molar specific heat?
+3. What is th meaning of latent heat?
+4. What is the difference between latent heat of vaporization and latent heat of fusion?
+5. (T/F) It requires heat to effect a phase transition (i.e. ice to liquid, or liquid to gas)?
+6. (T/F) When two systems (objects) interact the sum of all the heats transferred is equal to zero?
+7. Where is the account of Jesus calming the storm?
+
+
+## Section 19.7 - 19.8 (Specific Heat of Gases) {-}
+1. What is $C_V$?
+2. What is $C_P$?
+3. How much work is done during an adiabatic process (Mathematical Equation)?
+4. What is $\gamma$ and where is it used?
+5. How are $C_P$ and $C_V$ related?
+6. Write an equation for calculating the change in thermal energy for **any ideal gas process**.
+7. Why do diatomic gases have a higher heat capacity than monatomic gases?
+8. Why is $C_P$ **always** bigger than $C_V$?
+9. Name all of the heat transfer mechanisms and describe each.
+10. What do we mean by emissivity ($e$)?
+11. Where is the account of Jesus healing a man born blind?
