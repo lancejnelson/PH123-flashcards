@@ -19,7 +19,7 @@ toc: true
 ## Section 19.5 - 19.6 (Calorimetry) {-}
 1. What is the meaning of specific heat?
 2. What is the difference between specific heat and molar specific heat?
-3. What is th meaning of latent heat?
+3. What is the meaning of latent heat?
 4. What is the difference between latent heat of vaporization and latent heat of fusion?
 5. (T/F) It requires heat to effect a phase transition (i.e. ice to liquid, or liquid to gas)?
 6. (T/F) When two systems (objects) interact the sum of all the heats transferred is equal to zero?
@@ -30,7 +30,7 @@ toc: true
 1. What is $C_V$?
 2. What is $C_P$?
 3. How much work is done during an adiabatic process (Mathematical Equation)?
-4. What is $\gamma$ and where is it used?
+4. What is $\gamma$ and in what mathematical equation is it used?
 5. How are $C_P$ and $C_V$ related?
 6. Write an equation for calculating the change in thermal energy for **any ideal gas process**.
 7. Why do diatomic gases have a higher heat capacity than monatomic gases?

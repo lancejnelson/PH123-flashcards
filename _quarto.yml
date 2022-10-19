@@ -17,6 +17,11 @@ book:
       - ch17.qmd
       - ch18.qmd
       - ch19.qmd
+      - ch20.qmd
+      - ch21.qmd
+      - ch33.qmd
+      - ch34.qmd
+      - ch35.qmd
 
 format:
   html:

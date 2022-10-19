@@ -1,0 +1,13 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 34  {-}
+
+## Sections 34.1 - 34.3 (Reflection/Refraction Gratings) {-}
+
+## Section 34.4 - 34.6 (Thin Lenses) {-}
+
+## Section 34.7 (Mirrors) {-}
+

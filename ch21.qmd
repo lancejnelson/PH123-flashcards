@@ -1,0 +1,22 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 21  {-}
+
+## Sections 21.1 - 21.4 (Heat Engines/ Refrigerators) {-}
+1. What is the definition of the thermal efficiency of a heat engine?
+2. How is the work done on a system related to the work done **by a system**?
+3. What is the purpose of a heat engine (use the terms "heat" and "work in your description").
+4. What is the purpose of a refrigerator (use the terms "heat" and "work in your description").
+5. What is meant by coefficient of performance and what is the mathematical equation to calculate it?
+6. Is it possible to construct a heat engine that has 100\% efficiency?
+7. Describe the Brayton cycle. (What ideal gas processes are involved?)
+8. Recite Helaman 12:15
+
+## Section 21.5 - 21.6 (The Carnot Engine) {-}
+1. Describe the Carnot engine (What ideal gas processes are involved)?
+2. How do you calculate the upper limit on the efficiency of a heat engine?
+3. How do you calculate the upper limit on the efficiency of a refrigerator?
+4. Recite Helaman 12:1

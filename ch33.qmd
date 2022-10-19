@@ -1,0 +1,12 @@
+---
+format: html
+toc: true
+---
+
+# Chapter 33  {-}
+
+## Sections 33.1 - 33.2 (Light Interference) {-}
+
+## Section 33.3 - 33.8 (Diffraction Gratings/ Single and Mutliple Slits) {-}
+
+
