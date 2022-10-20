@@ -5,9 +5,32 @@ toc: true
 
 # Chapter 34  {-}
 
-## Sections 34.1 - 34.3 (Reflection/Refraction Gratings) {-}
+## Sections 34.1 - 34.3 (Reflection and Refraction ) {-}
+1. What is Snell's law? 
+2. What is the difference between specular and diffusive reflection?
+3. What is the law of reflection?
+4. What is meant by refraction?
+5. When does light refract **away from the normal** direction?
+6. When does light refract **towards the normal** direction?
+7. What is total internal reflection and when does it occur?
+8. What is the critical angle?
+9. Describe the physics of fiber optics cables.
+10. Recite Alma 32:21
 
-## Section 34.4 - 34.6 (Thin Lenses) {-}
+## Section 34.4 - 34.6 (Image Formation, Thin Lenses) {-}
+1. Describe how refraction can make an object appear to be **further away** than it really is.
+2. Describe how refraction can make an object appear to be **closer** than it really is.
+3. What is a **converging** lens and what are the three special rays needed to locate the image it produces?
+4. What is a **diverging** lens and what are the three special rays needed to locate the image it produces?
+5. What is the difference between a real image and a virtual image?
+6. What is the thin lens equation?
+7. What is the lens-makers equation and what is it used for?
+8. What is focal length and how do you know if it's positive or negative?
+9. Where is the account of the Savior walking on water?
 
 ## Section 34.7 (Mirrors) {-}
-
+1. What is a **concave** mirror and what are the three special rays needed to locate the image it produces?
+2. What is a **convex** mirror and what are the three special rays needed to locate the image it produces?
+3. What is the mirror equation?
+4. How do you calculate the focal length for a spherical mirror?
+5. Where can you find the parable of the laborers in the vineyard?
