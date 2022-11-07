@@ -6,7 +6,18 @@ toc: true
 # Chapter 20  {-}
 
 ## Sections 20.1 - 20.4 (A closer look at temperature, pressure, and energy) {-}
+1. Using microscopic terms explain why gases have pressure.
+2. What is meant by "mean free path"?
+3. What is the mathematical definition of root mean square?
+4. What is the equipartition theorem?
+5. Why do diatomic gases have greater heat capacity than monatomic gases?
+6. How many degrees of freedom does a monatomic gas have? (diatomic?)
+7. Where is the account of Christ appearing on the road to Emmaus?
+
 
 ## Section 20.5 - 20.6 (A closer look at heat) {-}
-
+1. What is the mathematical definition of thermal equilibrium?
+2. What is the second law of thermodynamics?
+3. What is the definition of entropy?
+4. Which ancient apostle proclaimed that he wouldn't believe that the Savior had risen until he could see him and touch him? 
 
